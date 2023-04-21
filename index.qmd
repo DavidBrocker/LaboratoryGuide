@@ -1,0 +1,32 @@
+---
+title: "Hardware and Software Descriptions"
+format: html
+---
+
+The Applied Psychology department recently acquired new software and hardware for use in research and academic settings.
+
+This site aims to provide an overview of the equipment and software as well as proper use and care.
+
+## [Hardware: EyeTech VT3 Mini](https://imotions.com/hardware/eyetech-vt3-mini/)
+
+The EyeTech is a desktop mounted eye tracker. This device allows researchers to record data about where a participant looks, how long they are looking for, and other useful metrics for behavioral analyses.
+
+![](images/EyeTech-VT3-mini.png){width="430"}
+
+![](images/eyetech_specs.png){width="460"}
+
+## [Software: iMotions](https://imotions.com/platform/)
+
+iMotions acts as a bridge between the peripherals (eye tracker and EEG). It aims to consolidate everything into one window.
+
+## [Hardware: Neuroelectrics Enobio 20](https://www.neuroelectrics.com/solutions/enobio/20/)
+
+The Enobio 20 system is a portable and wearable EEG that allows researcher to collect data for brain research.
+
+![](images/eegspecs.png)
+
+## [Software: NIC2](https://www.neuroelectrics.com/solution/software-integrations/nic2)
+
+NIC2 is a software that allows for the collection of EEG data.
+
+![](images/EEG%20Electrodes%20in%20use.png)
